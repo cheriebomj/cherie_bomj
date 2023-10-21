@@ -1,0 +1,172 @@
+    nav{
+        width: 100%;
+        height: 50px;
+        background-color: #ff67ae;
+        box-shadow: 0px 0px 5px 3px #ffffff
+    }
+
+    body {
+        margin: 0%;
+        background-image: url("moon.jpg");
+        background-attachment: fixed;
+        background-size: cover  ;
+    }
+
+    .link{
+        position: relative;
+        float: right;
+        color: rgb(250, 250, 250);
+        margin-right: 50px;
+        top: 15px;
+        text-decoration: rgb(63, 130, 189);
+        transition: 1.5s;
+    }
+
+    .link:hover{
+        color: rgb(255, 255, 255);
+        box-shadow: #88c5ff;
+        padding: 10px;
+    }
+    .Welcome{
+        position: relative;
+        margin: 30px;
+        font-size: 20px;
+        color: white;
+        text-shadow: 3px 3px 10px rgb(244, 238, 245); 
+    }
+
+    .content{
+        position: relative;
+        float: right;
+        margin-right: 100px;
+        border-radius: 200px;
+    }
+
+    .cherie{
+        border-radius: 150px;
+        position: relative;
+        top: -270px;
+        right: 50px;
+    }
+
+    h1{
+        color: white;
+        font-size: 40px;
+    }
+
+    h4{
+        color: white;
+        position: relative;
+        top: 20px;
+    }
+
+    .main-content{
+        position: relative;
+        margin-left: 170px;
+        top: 0px;
+
+    }
+
+    .bxl-facebook-circle{
+        color: white;
+        margin-left: 460px;
+        top: 30px;
+        position: relative;
+        font-size: 25px;
+    }
+
+    .bxl-instagram-alt{
+        color: white;
+        margin-left: 50px;
+        top: 30px;
+        position: relative;
+        font-size: 25px;
+    }
+
+    .bxl-twitter{
+        color: white;
+        margin-left: 50px;
+        top: 30px;
+        position: relative;
+        font-size: 25px; 
+    }
+
+    .bxl-telegram{
+        color: white;
+        margin-left: 50px;
+        top: 30px;
+        position: relative;
+        font-size: 25px; 
+    }
+
+    .bxl-tiktok{
+        color: white;
+        margin-left: 50px;
+        top: 30px;
+        position: relative;
+        font-size: 25px; 
+    }
+
+    h2{
+        color: white;
+        text-align: center;
+        text-align: justify;
+        position: relative;
+        left: 400px;
+    }
+
+.solo{
+    position: relative;
+    left: 500px;
+    border-radius: 200px;
+}
+
+.Personal{
+    position: relative;
+    left: 300px;
+}
+
+.education{
+    text-align: center;
+    position: relative;
+    left: 260px;
+    top: -1080px;
+}
+
+h4{
+    text-align: center;
+    position: relative;
+    top: -1150px;
+    left: 300px;
+}
+
+h5{
+    color: white;
+    text-align: center;
+    position: relative;
+    font-size: 25px;
+    left: 60px;
+    top: -1150px;
+}
+
+h3{
+    color: white;
+    position: relative;
+    left: 0px;
+    top: 20px;
+}
+
+.container{
+    width: 100%;
+    height: 100px;
+    position: fixed;
+    bottom: 0px;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.award{
+    position: relative;
+    width: 700px;
+    left: 300px;
+}
+
